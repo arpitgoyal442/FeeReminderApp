@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526918537297",
+    "project_id": "fee-reminder-d3be9",
+    "storage_bucket": "fee-reminder-d3be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526918537297:android:d81c3a5880878e0f882870",
+        "android_client_info": {
+          "package_name": "com.whatever.feereminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526918537297-7mpfhqg8ltaln007oo1pub4rsvlanm3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJ5r-cQ5o05baoUBQsRyp_Z1VSxh80mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526918537297-7mpfhqg8ltaln007oo1pub4rsvlanm3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
