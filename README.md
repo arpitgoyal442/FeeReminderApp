@@ -1,6 +1,10 @@
 # FeeReminderApp
 
 Fee Reminder App Reminds user whenever clients fee period is over.
+USED: -  FIREBASE
+         JAVA
+         Material Design
+         
 
 <img  src="https://user-images.githubusercontent.com/56843176/120081960-dba10380-c0dd-11eb-9e38-f5e60e73f2e0.jpg" width="200" height="400" />
 <img  src="https://user-images.githubusercontent.com/56843176/120081963-dd6ac700-c0dd-11eb-8536-15c9626caeb2.jpg" width="200" height="400" />
